@@ -20,6 +20,7 @@
     "mockjs": "^1.1.0",
     "moment": "^2.28.0",
     "mysql2": "^2.2.2",
+    "nodemon": "^2.0.4",
     "sequelize": "^6.3.5",
     "validate.js": "^0.13.1"
   }
